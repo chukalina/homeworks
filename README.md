@@ -1,8 +1,3 @@
 # homeworks
-### homeworks
-###### homeworks
-**bold**
-*italic*
-_italictoo_
-***bold and italic***
-***I love chicken***
+## Меня зовут Алина, я из города Курска
+### ***Я люблю есть***
